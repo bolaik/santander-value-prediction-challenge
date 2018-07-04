@@ -1,4 +1,4 @@
-input/
-*/.ipynb_checkpoints/
-santander_eda/logs/
-.DS_Store
+**/input/
+**/.ipynb_checkpoints/
+**/logs/
+**/.DS_Store
