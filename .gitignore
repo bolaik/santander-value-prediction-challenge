@@ -1,3 +1,4 @@
 input/
 */.ipynb_checkpoints/
 santander_eda/logs/
+.DS_Store
