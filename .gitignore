@@ -3,3 +3,4 @@
 **/logs/
 **/.DS_Store
 kernels/*.csv
+**/.Rhistory
